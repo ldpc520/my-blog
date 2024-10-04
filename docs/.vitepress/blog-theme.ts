@@ -67,7 +67,7 @@ const blogTheme = getThemeConfig({
   ],
 
   // 公告
-  popover: {
+  // popover: {
     // title: '公告',
     // body: [
     //   { type: 'text', content: '👇公众号👇---👇 微信 👇' },
@@ -99,7 +99,7 @@ const blogTheme = getThemeConfig({
     //   }
     // ],
     // duration: 0
-  },
+  // },
 })
 
 
