@@ -1,16 +1,19 @@
-准备工作：
+# 广东移动IPTV单线复用、Padavan老毛子单播成功【笔记】.md
 
-温馨提示：改动前建议先抓包，电脑连接光猫的IPTV口打开这个网址就能抓到广东移动的频道列表：http://183.235.16.92:8082/epg/api/custom/getAllChannel2.json
-1、广东移动光猫超级帐号：CMCCAdmin 密码：aDm8H%MdA
-2、一个Padavan老毛子的路由器，Lan口越多越好，方便一些，不低于两个Lan口
+
+:::warning 温馨提示
+改动前建议先抓包，电脑连接光猫的IPTV口打开这个网址就能抓到广东移动的频道列表：http://183.235.16.92:8082/epg/api/custom/getAllChannel2.json
+:::
+1. 广东移动光猫超级帐号：CMCCAdmin 密码：aDm8H%MdA
+2. 一个Padavan老毛子的路由器，Lan口越多越好，方便一些，不低于两个Lan口
 实操步骤：
-**一、以超级管理员帐号登陆光猫进行如下图设置，数值不要照搬，根据你的光猫实际数值来填**
+## 一、以超级管理员帐号登陆光猫进行如下图设置，数值不要照搬，根据你的光猫实际数值来填
 ![光猫1](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/67975189-3933-428e-9277-5334f59944dd)
 ![光猫2](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/00b3e6cf-916a-47db-9121-5edf8896180a)
 ![光猫3](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/829c672d-3c62-4155-9b94-5112f5fcbbeb)
 ![光猫4](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/73c5975e-5062-4fb5-b40f-2f442671c627)
 
-**二、用一根网连接光猫的Lan1口和路由器的WAN口。登陆后进行如下图设置**
+## 二、用一根网连接光猫的Lan1口和路由器的WAN口。登陆后进行如下图设置
 
 下图按正常设置上你的宽带帐号和密码
 ![外网1](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/b35c02b8-bf2b-42d0-9bf8-02ce6ca5ee8c)
