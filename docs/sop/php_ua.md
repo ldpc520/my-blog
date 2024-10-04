@@ -1,4 +1,7 @@
-**如果不想你的PHP代理直播源让别人使用可以在代码前添加以下代码**
+# 给你的PHP代码加上UA
+
+## UA代码
+如果不想你的PHP代理直播源让别人使用可以在代码前添加以下代码
 其中“iptv”就是你的UA。所以你的直播软件上的UA也得改成iptv
 ```php
   $user_agent = $_SERVER['HTTP_USER_AGENT'];
@@ -7,7 +10,8 @@ if ($user_agent != 'iptv') {
     exit;
 }  
 ```
-**如下面的凤凰卫视代码源码**
+## 示例
+如下面的凤凰卫视代码源码
 ```php
 <?php
   $user_agent = $_SERVER['HTTP_USER_AGENT'];
