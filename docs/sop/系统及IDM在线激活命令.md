@@ -1,3 +1,7 @@
+---
+top: 4
+---
+
 # 系统及IDM在线激活命令
 
 1. 系统激活
@@ -8,7 +12,7 @@ irm https://get.activated.win | iex
 ```
 文件版激活工具：https://ld0766.lanzouj.com/iwFmj22iey0b
 
-:::code-group
+------------------------------------------------------------
 
 2. IDM激活
 IDM官网：https://www.internetdownloadmanager.com
