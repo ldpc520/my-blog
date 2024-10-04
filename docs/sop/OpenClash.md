@@ -1,4 +1,6 @@
-**1、进入OpenClash，点击配置管理 ，如下图操作**
+# OpenClash白名单设置
+
+1、进入OpenClash，点击配置管理 ，如下图操作
 
 ![001](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/f52e5815-d642-47f0-bb3a-70e57e3f61f2)
 ![002](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/9c79169b-8c36-44b5-a3b1-61d28d017d99)
