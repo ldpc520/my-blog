@@ -1,3 +1,7 @@
+---
+top: 3
+---
+
 # LKY OfficeTools自动安装office办公软件
 
 一键自动化 下载、安装、激活 Office 的利器。绿色、开源、安全、无毒。
