@@ -1,3 +1,5 @@
+# 把多个PHP代理源码都集合在一个PHP文件里
+
 ```php
 <?php
 
@@ -55,4 +57,5 @@ exit();
 
 ?>
 ```
-访问格式：http://127.0.0.1/test.php?vid=db&id=0
+## 访问格式
+http://127.0.0.1/test.php?vid=db&id=0
