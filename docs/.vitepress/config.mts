@@ -47,6 +47,7 @@ export default defineConfig({
     // },
     nav: [
       { text: '首页', link: '/' },
+      { text: '小霸王游戏', link: 'https://www.wexyx.com' },
       { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
     ],
     socialLinks: [
