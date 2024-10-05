@@ -3,7 +3,7 @@
 ## 一、下载Nodejs
 官网下载：https://nodejs.cn/download/
 
-![nodejs](https://img.bpzx.us.kg/file/813c957f5c4461934a91e-19d0baa40f8628e4dc.png)
+![nodejs](https://img.bpzx.us.kg/file/82540c19b7ca0832febfd-f31c62f70d7f0defc0.png)
 
 ## 二、安装nodejs
 
@@ -13,11 +13,11 @@
 
 在安装的目录下创建两个目录：node_global和node_cache
 
-![node2](https://img.bpzx.us.kg/file/f40fc7bdd951fe44e278d-f7ccc374ed2e7b78a1.png)
+![node2](https://img.bpzx.us.kg/file/eea9a9328e637aecd3418-5175cfb1b39d7ecdf1.png)
 
 给安装目录分配权限，分配修改权限，如下图所示：
 
-![node3](https://img.bpzx.us.kg/file/017fa6862f5afffbe113f-6dd1a85627b0eeb0dd.png)
+![node3](https://img.bpzx.us.kg/file/d1bd4add01807fd5eb761-2f83ee3657bcc75030.png)
 ## 三、修改系统环境变量
 
 默认会自动添加到环境变量中，这里我们也可以手动配置环境变量
@@ -30,7 +30,7 @@
 
 如下图所示：
 
-![node4](https://img.bpzx.us.kg/file/597c3748a04ba8c65f05a-9a75e8680660c273a3.png)
+![node4](https://img.bpzx.us.kg/file/32f280eb0e91b3063a64c-0b21b3b92aa39617be.png)
 
 ## 四、修改用户环境变量
 
