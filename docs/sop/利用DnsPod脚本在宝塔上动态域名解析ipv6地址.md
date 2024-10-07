@@ -1,5 +1,5 @@
 ---
-sticky:888
+sticky: 888
 ---
 
 # 利用DnsPod脚本在宝塔上动态域名解析ipv6地址
