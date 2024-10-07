@@ -46,10 +46,39 @@ export default defineConfig({
     //   text: '去 GitHub 上编辑内容'
     // },
     nav: [
-      { text: '首页', link: '/' },
-      { text: '小霸王游戏', link: 'https://www.wexyx.com' },
-      { text: '在线简历', link: 'https://resume.sugarat.top' },
-      { text: '关于作者', link: 'https://sugarat.top/aboutme.html' }
+      {
+        text: '关于',
+        link: '/about'
+      },
+      {
+        text: '线上作品',
+        items: [
+          {
+            text: '小霸王游戏',
+            link: 'https://www.wexyx.com'
+          },
+          {
+            text: '轻取(文件收集)',
+            link: 'https://ep2.sugarat.top'
+          },
+          {
+            text: '个人图床',
+            link: 'https://imgbed.sugarat.top'
+          },
+          {
+            text: '考勤小程序',
+            link: 'https://hdkq.sugarat.top/'
+          },
+          {
+            text: '时光恋人',
+            link: 'https://lover.sugarat.top'
+          },
+          {
+            text: '在线简历生成',
+            link: 'https://resume.sugarat.top/'
+          }
+        ]
+      },
     ],
     socialLinks: [
       {
