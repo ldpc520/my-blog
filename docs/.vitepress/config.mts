@@ -51,27 +51,27 @@ export default defineConfig({
         link: '/about'
       },
       {
-        text: '线上作品',
+        text: '在线工具',
         items: [
           {
             text: '小霸王游戏',
             link: 'https://www.wexyx.com'
           },
           {
-            text: '轻取(文件收集)',
-            link: 'https://ep2.sugarat.top'
+            text: 'PDF24 Tools',
+            link: 'https://tools.pdf24.org/zh'
           },
           {
             text: '个人图床',
             link: 'https://imgbed.sugarat.top'
           },
           {
-            text: '考勤小程序',
-            link: 'https://hdkq.sugarat.top/'
+            text: '在线tools',
+            link: 'https://tool.lu'
           },
           {
-            text: '时光恋人',
-            link: 'https://lover.sugarat.top'
+            text: '证件照PS',
+            link: 'https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo'
           },
           {
             text: '在线简历生成',
