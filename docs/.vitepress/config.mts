@@ -51,6 +51,23 @@ export default defineConfig({
         link: '/about'
       },
       {
+        text: '个人作品',
+        items: [
+          {
+            text: '个人主页',
+            link: 'https://ldpc.us.kg'
+          }, 
+          {
+            text: '网站导航',
+            link: 'https://wabp.us.kg'
+          },
+          {
+            text: 'Alist网盘',
+            link: 'http://pan.ldpc.asia'
+          }
+        ]
+      },
+      {
         text: '在线工具',
         items: [
           {
