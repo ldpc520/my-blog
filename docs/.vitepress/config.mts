@@ -62,8 +62,8 @@ export default defineConfig({
             link: 'https://wabp.us.kg'
           },
           {
-            text: 'Alist网盘',
-            link: 'http://pan.ldpc.asia'
+            text: '网盘',
+            link: 'https://pan.sdjy.eu.org'
           }
         ]
       },
