@@ -87,6 +87,10 @@ export default defineConfig({
             link: 'https://tool.lu'
           },
           {
+            text: '图片+水印',
+            link: 'https://image.sdyun.eu.org'
+          },
+          {
             text: '证件照PS',
             link: 'https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo'
           },
