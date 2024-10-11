@@ -62,8 +62,8 @@ export default defineConfig({
             link: 'https://wabp.us.kg'
           },
           {
-            text: '网盘',
-            link: 'https://pan.sdjy.eu.org'
+            text: '个人网盘',
+            link: 'http://frpnn2.chickfrp.com:10020'
           }
         ]
       },
