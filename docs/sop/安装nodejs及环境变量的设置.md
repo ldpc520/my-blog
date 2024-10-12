@@ -3,7 +3,7 @@
 ## 一、下载Nodejs
 官网下载：https://nodejs.cn/download/
 
-![nodejs](https://img.bpzx.us.kg/file/82540c19b7ca0832febfd-f31c62f70d7f0defc0.png)
+![nodejs](https://pan.sdjy.eu.org/raw/image/nodejs/1.png)
 
 ## 二、安装nodejs
 
@@ -13,11 +13,11 @@
 
 在安装的目录下创建两个目录：node_global和node_cache
 
-![node2](https://img.bpzx.us.kg/file/eea9a9328e637aecd3418-5175cfb1b39d7ecdf1.png)
+![node2](https://pan.sdjy.eu.org/raw/image/nodejs/2.png)
 
 给安装目录分配权限，分配修改权限，如下图所示：
 
-![node3](https://img.bpzx.us.kg/file/d1bd4add01807fd5eb761-2f83ee3657bcc75030.png)
+![node3](https://pan.sdjy.eu.org/raw/image/nodejs/3.png)
 ## 三、修改系统环境变量
 
 默认会自动添加到环境变量中，这里我们也可以手动配置环境变量
@@ -30,7 +30,7 @@
 
 如下图所示：
 
-![node4](https://img.bpzx.us.kg/file/32f280eb0e91b3063a64c-0b21b3b92aa39617be.png)
+![node4](https://pan.sdjy.eu.org/raw/image/nodejs/4.png)
 
 ## 四、修改用户环境变量
 
