@@ -37,6 +37,8 @@
 把用户变量PATH中的C:\User\用户名\AppDate\Roaming\npm
 改为C:\Program Files\nodejs\node_global
 
+![node5](https://pan.sdjy.eu.org/raw/image/nodejs/5.png)
+
 ## 五、修改配置
 
 ### 1. 设置缓存目录和全局目录
