@@ -1,4 +1,5 @@
-# 把下面代码添加到自定义内容里
+# 给Alist添加飘花特效
+## 把下面代码添加到自定义内容里
 ```js
 <script src="https://ztuck.oss-cn-beijing.aliyuncs.com/API/js/hua.js"></script>
     <style>
