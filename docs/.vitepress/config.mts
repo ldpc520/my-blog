@@ -63,7 +63,7 @@ export default defineConfig({
           },
           {
             text: '个人网盘',
-            link: 'http://frpnn2.chickfrp.com:10020'
+            link: 'http://pan.527200.xyz'
           }
         ]
       },
@@ -80,7 +80,7 @@ export default defineConfig({
           },
           {
             text: '个人图床',
-            link: 'https://imgbed.sugarat.top'
+            link: 'https://pan.sdjy.eu.org'
           },
           {
             text: '在线tools',
