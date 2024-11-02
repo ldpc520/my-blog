@@ -21,7 +21,7 @@ MusicFree PC版 配置方法
 ![pc](https://github.com/ldpc520/ldpc520.github.io/assets/62380221/8b3c536f-9318-4929-af5e-c7d5418dfbcd)
 
 三、[ 软件](https://www.tao-space.top/2024/03/29/MusicFree%E9%9F%B3%E6%BA%90%E6%8E%A5%E5%8F%A3%E6%B1%87%E6%80%BB/#)下载
-官方下载：https://musicfree.upup.fun/
+官方下载：https://musicfree.catcat.work
 
 Github项目地址：https://github.com/maotoumao/MusicFree
 
