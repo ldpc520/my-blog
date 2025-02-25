@@ -9,4 +9,5 @@ sudo yum makecache
 sudo yum repolist
 url=https://download.bt.cn/install/install_panel.sh;if [ -f /usr/bin/curl ];then curl -sSO $url;else wget -O install_panel.sh $url;fi;bash install_panel.sh ed8484bec
 ```
+
 如无意外执行到最后的代码就会进入到安装的步骤界面了。
