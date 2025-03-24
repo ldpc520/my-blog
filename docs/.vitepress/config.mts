@@ -55,15 +55,15 @@ export default defineConfig({
         items: [
           {
             text: '个人主页',
-            link: 'https://ldpc.us.kg'
+            link: 'https://home.sdjy.eu.org'
           }, 
           {
             text: '网站导航',
-            link: 'https://wabp.us.kg'
+            link: 'https://dh.sdjy.eu.org'
           },
           {
             text: '个人网盘',
-            link: 'http://pan.527200.xyz'
+            link: 'https://alist.527200.xyz:9527'
           }
         ]
       },
@@ -79,8 +79,8 @@ export default defineConfig({
             link: 'https://tools.pdf24.org/zh'
           },
           {
-            text: '个人图床',
-            link: 'https://pan.sdjy.eu.org'
+            text: '文件管理',
+            link: 'https://zfile.527200.xyz:9527'
           },
           {
             text: '在线tools',
@@ -92,7 +92,7 @@ export default defineConfig({
           },
           {
             text: '证件照PS',
-            link: 'https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo'
+            link: 'https://ps.527200.xyz:9527'
           },
           {
             text: '在线简历生成',
