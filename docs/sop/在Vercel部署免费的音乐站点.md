@@ -3,7 +3,9 @@
 ![cname.png](https://img.sdjy.eu.org/2025/03/26/67e3d055ef7d1.png)
 打开github克隆以下三个项目到你自己的仓库，至于怎么Fork在这就不说了，懂的都懂
 Splaye：https://github.com/ldpc520/SPlayer
+
 UNM-server：https://github.com/IamFurina/UNM-Server
+
 NeteaseCloudMusicAPI：https://github.com/IamFurina/NeteaseCloudMusicApi
 ## 登陆Vercel后，通过github创建新的项目，
 ### SPlayer的部署
