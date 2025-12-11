@@ -48,6 +48,7 @@
 ## 五、修改配置
 
 ### 1. 设置缓存目录和全局目录
+
 设置缓存目录
 ```linux
 npm config set cache "C:\Program Files\nodejs\node_cache"
