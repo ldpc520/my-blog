@@ -26,8 +26,14 @@
 
 然后双击PATH，找到C:\Program Files\nodejs，点击编辑，替换为%NODE_HOME%
 
-新建两个值，分别填入%NODE_HOME%\node_global和%NODE_HOME%\node_cache
-
+新建两个值，分别填入
+```
+%NODE_HOME%\node_global
+```
+和
+```
+%NODE_HOME%\node_cache
+```
 如下图所示：
 
 ![node4](https://pan.sdjy.eu.org/raw/image/nodejs/4.png)
@@ -44,11 +50,11 @@
 ### 1. 设置缓存目录和全局目录
 设置缓存目录
 ```linux
-npm config set cache C:\Program Files\nodejs\node_cache
+npm config set cache "C:\Program Files\nodejs\node_cache"
 ```
 设置全局目录
 ```linux
-npm config set prefix C:\Program Files\nodejs\node_global
+npm config set prefix "C:\Program Files\nodejs\node_global"
 ```
 ### 2. 设置国内镜像
 
