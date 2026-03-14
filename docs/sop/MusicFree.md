@@ -25,31 +25,7 @@ MusicFree PC版 配置方法
 
 Github项目地址：https://github.com/maotoumao/MusicFree
 
-四、MusicFree[ 插件](https://www.tao-space.top/2024/03/29/MusicFree%E9%9F%B3%E6%BA%90%E6%8E%A5%E5%8F%A3%E6%B1%87%E6%80%BB/#)地址
-先选择自己需要的[ 插件](https://www.tao-space.top/2024/03/29/MusicFree%E9%9F%B3%E6%BA%90%E6%8E%A5%E5%8F%A3%E6%B1%87%E6%80%BB/#)地址进行复制，然后进行配置
-如果您有不同的资源可以在评论区提交，资源将在一周内在本区域更新
+四、MusicFree插件地址：https://13413.kstore.vip/yuanli/yuanli.json
+汇总地址：https://music.nairocy.com/
 
-如果无法加载成功，请尝试更换网络
 
-QQ音乐
-```JavaScript
-http://adad23u.appinstall.life/dist/qq/index.js
-```
-网易云音乐
-```JavaScript
-https://gitee.com/raycn120/musicfree/raw/master/netease.js
-```
-酷我音乐
-```JavaScript
-http://adad23u.appinstall.life/dist/kuwo/index.js
-```
-咪咕音乐
-```JavaScript
-http://adad23u.appinstall.life/dist/migu/index.js
-```
-Bilibili
-```JavaScript
-http://adad23u.appinstall.life/dist/bilibili/index.js
-```
-自用收集订阅接口
-https://gitcode.net/ken01982/music/-/raw/master/plugins.json
