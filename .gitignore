@@ -3,3 +3,4 @@ dist
 cache
 .temp
 .DS_Store
+docs/sop/一键部署rustdesk中继服务器及API 实现客户端登录远程设备管理等.md
