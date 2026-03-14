@@ -1,6 +1,6 @@
 # ESXI6.7下直通硬盘给群晖步骤，RDM直通方式
 
-参考文章：https://rmbz.net/archives/vmware-esxi-passthrough
+参考文章：https://www.cnblogs.com/vaemaxsky/p/13982648.html
 
 **1.进入ESXI6.7 web管理后台。开启SSH**
 
