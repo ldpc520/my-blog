@@ -26,6 +26,6 @@ MusicFree PC版 配置方法
 Github项目地址：https://github.com/maotoumao/MusicFree
 
 四、MusicFree插件地址：https://13413.kstore.vip/yuanli/yuanli.json
-汇总地址：https://music.nairocy.com/
+   汇总地址：https://music.nairocy.com/
 
 
