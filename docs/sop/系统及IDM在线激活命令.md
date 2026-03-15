@@ -11,7 +11,25 @@ top: 4
 irm https://get.activated.win | iex
 ```
 文件版激活工具：https://ld0766.lanzouj.com/iwFmj22iey0b
+------------------------------------------------------------
+## KMS
+KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 
+激活步骤（管理员命令执行）
+设置服务 
+```
+slmgr -skms skms.netnr.eu.org
+```
+
+安装密钥 
+```
+slmgr -ipk
+``` 
+版本对应秘钥
+激活系统 
+```
+slmgr -ato
+```
 ------------------------------------------------------------
 
 ## IDM激活
