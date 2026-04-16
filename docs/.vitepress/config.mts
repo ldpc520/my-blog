@@ -59,11 +59,11 @@ export default defineConfig({
           }, 
           {
             text: '网站导航',
-            link: 'https://dh.sdjy.eu.org'
+            link: 'https://nav.sdjy.eu.org'
           },
           {
-            text: '个人网盘',
-            link: 'https://alist.527200.xyz:9527'
+            text: 'Alist网盘',
+            link: 'https://alist.527200.xyz'
           }
         ]
       },
