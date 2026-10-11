@@ -70,4 +70,4 @@ mysql -uroot -p123456
 create database dnsmgr
 ```
 在install界面链接IP填写dnsmgr-mysql
-
+![安装界面](https://img.sdjy.eu.org/image/dns.png)
